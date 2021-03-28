@@ -1,4 +1,4 @@
-# Rijin V1
+# Raijin V1
 
 ## コンセプト
 
